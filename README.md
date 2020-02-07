@@ -4,7 +4,7 @@
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 [Michael Hartl](http://www.michaelhartl.com/) 著
 
-## ライセンス test
+## ライセンス
 
 [Ruby on Rails チュートリアル](https://railstutorial.jp/)内にある
 ソースコードはMITライセンスとBeerwareライセンスのもとで公開されています。
